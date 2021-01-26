@@ -1,4 +1,4 @@
-# datascience
+# datascience - Modelo de Análise preditiva
 Projeto utilzando machine learning para predição de inadimplência em bancos.
 
 Como projeto final do meu curso de formação de cientista de dados, criei um projeto desenvolvido em Python 
